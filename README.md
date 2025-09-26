@@ -39,15 +39,5 @@ Sample tables used:
 Learned to manipulate and query structured data using SQL effectively.
 
 ---
-
-### Interview Questions
-1. Difference between `WHERE` and `HAVING`?  
-2. Types of `JOIN`s?  
-3. Average revenue per user in SQL?  
-4. What are subqueries?  
-5. How to optimize queries?  
-6. What is a view?  
-7. How to handle NULL values?
-
 ---
 
